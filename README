@@ -1,0 +1,123 @@
+# Employee Management System
+
+## Project Overview
+The Employee Management System is a console-based Java application developed to manage employee records efficiently.  
+It provides functionality to add, view, search, update, and delete employee information.  
+The system uses Java Collections and File Handling to ensure data persistence and fast access.
+
+---
+
+## Objectives
+- To implement CRUD operations using Java
+- To store employee data using ArrayList and HashMap
+- To provide fast employee lookup by employee ID
+- To save and load employee data using file handling
+- To generate salary and department-wise reports
+- To apply exception handling for reliable execution
+
+---
+
+## Technologies Used
+- Java (JDK 8 or above)
+- Java Collections Framework
+- File Handling (Serialization)
+- VS Code / IntelliJ IDEA / Eclipse
+
+---
+
+## Project Structure
+EmployeeManagementSystem/
+│
+├── Employee.java
+├── EmployeeManagementSystem.java
+├── EmployeeFileHandler.java
+├── EmployeeReportGenerator.java
+└── employees.dat
+
+
+---
+
+## Employee Data Fields
+- Employee ID (String)
+- Name (String)
+- Department (String)
+- Position (String)
+- Salary (double)
+- Join Date (String)
+
+---
+
+## Features
+- Add new employee
+- View all employees
+- Search employee by ID, name, or department
+- Update employee salary
+- Delete employee records
+- Generate salary statistics
+- Generate department-wise summary
+- Save employee data to file
+- Load employee data from file
+- Exception handling for invalid inputs
+
+---
+
+## How to Run the Project
+1. Install Java JDK (8 or above)
+2. Open the project folder in an IDE or terminal
+3. Compile all `.java` files
+4. Run `EmployeeManagementSystem.java`
+5. Use the menu to perform operations
+
+---
+
+## Sample Menu
+=== EMPLOYEE MANAGEMENT SYSTEM ===
+
+Add New Employee
+
+View All Employees
+
+Search Employee
+
+Update Employee
+
+Delete Employee
+
+Generate Reports
+
+Save to File
+
+Load from File
+
+Exit
+
+
+---
+
+## File Handling
+- Employee data is stored in `employees.dat`
+- Serialization is used to save and load employee objects
+- Data is automatically saved after adding employees
+
+---
+
+## Testing
+| Operation | Result |
+|--------|--------|
+| Add employee | Successfully added |
+| Duplicate ID | Error handled |
+| Invalid salary | Exception handled |
+| Search employee | Correct results |
+| Delete employee | Successfully deleted |
+
+---
+
+## Conclusion
+This project demonstrates effective use of Java programming concepts such as OOP, collections, file handling, and exception handling.  
+It provides a reliable solution for managing employee records and is suitable for academic submission.
+
+---
+
+## Developed By
+**Samruddhi**  
+
