@@ -1,0 +1,5 @@
+Total Employees: 3
+Total Salary: ₹245000
+Average Salary: ₹81666.67
+Highest Salary: ₹90000 (Samruddhi)
+Lowest Salary: ₹75000 (Diya)
