@@ -1,0 +1,4 @@
+ArrayList
+ ├── Employee(E001, Samruddhi, Engineering, Software Developer, 90000, 2024-02-07)
+ ├── Employee(E002, Vaishnavi, Marketing, Manager, 80000, 2024-02-07)
+ └── Employee(E003, Diya, HR, Specialist, 75000, 2024-02-07)
