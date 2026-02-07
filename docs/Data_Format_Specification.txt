@@ -1,0 +1,6 @@
+Employee ID    : String (Unique)
+Name           : String
+Department     : String
+Position       : String
+Salary         : double
+Join Date      : String (YYYY-MM-DD)
