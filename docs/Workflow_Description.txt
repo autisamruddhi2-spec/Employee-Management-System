@@ -1,0 +1,5 @@
+1. User selects menu option
+2. System accepts input
+3. Data stored in ArrayList and HashMap
+4. File saved using serialization
+5. Reports generated on demand
